@@ -1,2 +1,2 @@
-# teeko
-fun game i made freshmen year called teeko
+# Teeko
+Fun game I made for my freshman intro python course using turtle graphics. 
